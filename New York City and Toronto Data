@@ -1,0 +1,11 @@
+ Capstone-New York City and Toronto Data
+ 
+ Foursquare location data will be leveraged. Specifically, we a looking for neighborhoods in New York and Toronto with the highest population density and income.
+ 
+ The data sourced if from IBM open data and Wikipedia.
+The following data sets from New York City and Toronto will be used:
+    Income 
+    Location
+    Population Density
+
+ With the above data, we will be able to compare neighborhoods within the two cities to find the best fit for our needs. For instance, neighborhoods with above average incomes will be considered  as store locations and neighborhoods with below average incomes will not be considered for store locations. Neighborhoods with the highest income and population density are the most desirable.
